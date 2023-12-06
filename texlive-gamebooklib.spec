@@ -1,6 +1,6 @@
 Name:		texlive-gamebooklib
-Version:	63424
-Release:	2
+Version:	67772
+Release:	1
 Summary:	Macros for setting numbered entries in shuffled order
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gamebooklib
