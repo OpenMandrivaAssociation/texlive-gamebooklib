@@ -3,7 +3,7 @@ Version:	67772
 Release:	1
 Summary:	Macros for setting numbered entries in shuffled order
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gamebooklib
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gamebooklib
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gamebooklib.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gamebooklib.doc.r%{version}.tar.xz
